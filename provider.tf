@@ -1,4 +1,4 @@
 provider "google" {
-  project     = "gcp-sandpit-intelia"
+  project     = "terraform-playground-369504"
   region      = "australia-southeast1"
 }
